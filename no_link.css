@@ -1,0 +1,11 @@
+a {
+  pointer-events: none !important;
+  cursor: inital !important;
+  color: initial !important;
+  text-decoration: initial !important;
+}
+
+button {
+  pointer-events: none !important;
+  cursor: inital !important;
+}
